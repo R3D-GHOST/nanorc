@@ -3,6 +3,8 @@ nanorc config
 
 nano ~/.nanorc
 
+______________
+
 set autoindent
 _______________
 set tabsize 4
